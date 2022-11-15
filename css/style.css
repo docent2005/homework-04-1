@@ -310,7 +310,6 @@ a{
 
 
 .section4-list-text{
-    padding-bottom: 30px;
     width: 270px;
     background-color: var(--general);
     text-align: center;
@@ -323,6 +322,7 @@ a{
 
 .section4-div{
     padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .section4-list-image{
